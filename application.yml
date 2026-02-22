@@ -1,6 +1,6 @@
 spring:
   application:
-    name: default
+    name: config-default
 eureka:
   client:
     fetch-registry: true
